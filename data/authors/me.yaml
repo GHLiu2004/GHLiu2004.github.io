@@ -14,9 +14,14 @@ postnominals:
 status:
   icon: "🚁"
 
-role: Master Student in Control Science and Technology
+role: Master Student in Robotics
 bio: |
-  目前专注于模型预测控制（MPC）理论研究&&机械臂控制算法仿真（MuJoCo）&&边缘算力平台（Jetson）部署。
+  Focused on theoretical research in model predictive control (MPC), simulation of robotic arm control algorithms based on MuJoCo, and deployment on edge computing platforms.  
+
+  Expected to graduate with a master's degree in 2029; welcome to collaborate and exchange ideas.
+
+  专注于模型预测控制（MPC）理论研究、基于MuJoCo的机械臂控制算法仿真、边缘算力平台部署。
+  
   预计 2029 年硕士毕业，欢迎交流合作。
 
 affiliations:
@@ -43,10 +48,12 @@ education:
     institution: Harbin Institute of Technology
     start: 2022-08
     end: 2026-06
-    summary: |
-      Minor in Flight Vehicle Design and Engineering.
-  - degree: Master in Control Science & Engineering
+  - degree: Minor in Flight Vehicle Design and Engineering
     institution: Harbin Institute of Technology
+    start: 2022-08
+    end: 2026-06
+  - degree: Master in Control Science & Engineering
+    institution: Harbin Institute of Technology (State Key Laboratory of Robotics and Systems)
     start: 2026-08
     end: 2029-06
     summary: |
